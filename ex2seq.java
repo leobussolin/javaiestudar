@@ -9,7 +9,7 @@ public class ex2seq {
 		//declarando tipos de variável
 		double R, area;
 		//inserindo valores
-		R = sc.nextFloat();
+		R = sc.nextDouble();
 		//cálculo da área
 		area = 3.14159 * Math.pow(R, 2);
 		//para seperação decimal no padrão dos Estados Unidos
